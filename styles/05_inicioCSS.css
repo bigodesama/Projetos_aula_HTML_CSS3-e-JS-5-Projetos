@@ -1,0 +1,39 @@
+body{
+        background-color: black;
+}
+    h1{
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 38px;
+        font-style: normal;
+        font-variant: small-caps;
+        color: aqua;
+        border-style: solid;
+        border-width: 5px;
+        border-color: red;
+    }
+
+    h2{
+        font-family:'Roboto', sans-serif;
+        font-style: normal;
+        font-variant: small-caps;
+        color:aquamarine;
+        font-weight: 700;
+
+    }
+    p{
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 22px;
+        font-variant: small-caps;
+        text-align: left;
+        text-decoration: underline;
+        text-transform:inherit;
+        text-indent: 30px;
+        color: blueviolet;
+    }
+    .batata{
+        font-size: 22px;
+        font-weight: bold;
+    }
+    .biscoito{
+        color:crimson;
+}
